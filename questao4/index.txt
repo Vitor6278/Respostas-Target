@@ -1,0 +1,6 @@
+a) Sequência de números ímpares. Próximo: 9.
+b) Sequência de potências de 2. Próximo: 128.
+c) Sequência de quadrados perfeitos. Próximo: 49.
+d) Sequência de quadrados perfeitos de números pares. Próximo: 100.
+e) Sequência de Fibonacci. Próximo: 13.
+f) Sequência menos óbvia, mas parece adicionar 8, 2, 4, 1, 1, 1 sucessivamente. Próximo: 20.
